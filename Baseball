@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+    <title>Baseball</title>
+   </head>
+   
+   <body>
+    <h1>Baseball</h1>
+    <ul>
+      <li>The Rules</li>
+      <li>Recent History</li>
+     </ul>
+      
+      <h2>The Rules</h2>
+          <p>
+          Baseball seems complicated compared to other sports, and it is. There are things super easy to understand, and then there are... other rules. 
+          For this section, I'll just be going over the basic rules of baseball:
+          </p>
+          
+          <ul>
+            <li>Positions
+              <ul>
+                <li>Infield: Catcher, 1st Baseman, 2nd Baseman, 3rd Baseman, Shortstop</li>
+                <li>Outfield: Left Field, Center Field, Right Field</li>
+                <li>Designated Hitter?</li>
+               </ul>
+             </li> 
+            <li>Batting
+              <ul>
+                <li>The Pitcher: The pitcher is the guy you see throwing the ball to the batter, the person with a bat.</li>
+                <li>Balls and Strikes: Strikes are simple, 3 and you're out. 4 balls is a walk, head to 1st base.</li>
+                <li>Foul Balls: If the batter swings and hits the ball out of play (outside of foul lines, lines that run left and right of home plate), it is a foul, add one strike. If the batter is on 2 strikes, nothing happens, the at-bat continues.</li>
+               </ul>
+              </li>
+             <li>Baserunning
+              <ul>
+                <li>The Bases: There is a large diamond shaped dirt path with bases on it. Starting at the bottom going counterclockwise, there is Home Plate, 1st Base, 2nd Base and 3rd Base. Heres a picture from MLB.com. <a href=http://m.mlb.com/glossary/rules/field-dimensions>Website</a></li>
+                <li>If the batter puts a ball in play, they can run around the bases, going from home to 1st, 2nd, 3rd or maybe even home. Step on home to score a run. Team with the most runs after 9 innings (sets of 3 outs per team) wins.</li>
+                <li>When you are standing on a base, you cannot be tagged out by the player with the ball.</li>
+               </ul>
+              </li>
+            </ul>
+            
+          <h2>Recent History</h2>
+            <p>
+            Now that you (hopefully) have a basic idea of how to play baseball, let's go over some recent history. At the end of every season, there are awards given out
+            to the players. The most coveted of them would be the league MVP and Cy Young award. The MVP award goes out to the overall best player from that league that
+            season. The Cy Young goes to the best pitcher from the league that season. Then there is the World Series, the equivalent of the NBA finals or the Super Bowl.
+            Heres another explanation from MLB.com <a href=https://www.mlb.com/awards>Website</a> Hope you learned something!
+            </p>
+           </body>
+        <html>
